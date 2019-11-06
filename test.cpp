@@ -16,5 +16,7 @@ int test()
     
     cout << "testing again" << endl;
     
+    cout << "testing conflict 2" << endl;
+    
     return 0;
 }
