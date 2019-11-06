@@ -15,8 +15,7 @@ int test()
     cout << "this is a test file" << endl;
     
     cout << "testing again" << endl;
-    
-<<<<<<< HEAD
+
     cout << "testing conflict 2" << endl;
     
     return 0;
