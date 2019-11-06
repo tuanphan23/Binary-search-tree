@@ -16,5 +16,9 @@ int testingBranch()
     
     cout << "testing branch 2" << endl;
     
+    cout << "testing branch in GitHub" << endl;
+    
+    cout << "testing branch 2" << endl;
+    
     return 0;
 }
