@@ -16,6 +16,7 @@ int test()
     
     cout << "testing again" << endl;
     
+<<<<<<< HEAD
     cout << "testing conflict 2" << endl;
     
     return 0;
